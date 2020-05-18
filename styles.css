@@ -1,0 +1,20 @@
+/* id is represented with hash (#) */
+/* class is represented with fullstop(.) */
+html{
+    height:100%;
+}
+body{
+    height:100%;
+}
+
+#carouselExampleCaptions{
+    height:100%;
+}
+
+.carousel-inner{
+    height:100%;
+}
+
+.carousel-caption{
+    margin-bottom:20%;
+}
